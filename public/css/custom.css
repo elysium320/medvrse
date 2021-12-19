@@ -1,0 +1,23 @@
+.back-color{
+  background-color: #069df5;
+}
+.custom-addon{
+  background-color: #069df5;
+  color:white
+}
+.login-button{
+  background-color: #055cf9;
+}
+.forgot-url{
+  text-decoration: none;
+  color:white;
+}
+.forgot-url:hover{
+  color:yellow;
+}
+.remember-check{
+  color:white;
+}
+.table-style{
+  width:100%,
+}
