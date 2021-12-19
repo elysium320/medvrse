@@ -76,7 +76,7 @@
             <div name="result_preview">
                 <div class="title">
                     Result Preview
-                    <iframe src="http://docs.google.com/gview?url=http://localhost:8000/uploads/10000.pdf&embedded=true" 
+                    <iframe src="http://docs.google.com/gview?url=http://medvrse.com/uploads/10000.pdf&embedded=true" 
                         style="width:600px; height:500px;" frameborder="0"></iframe>
                 </div>
             </div>
